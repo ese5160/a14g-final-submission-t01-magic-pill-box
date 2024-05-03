@@ -51,6 +51,6 @@
 
 - ![Node-Red Backend](img/node_red_backEnd.png)
 
-### h. Block diagram of your system
+### h. Block diagram
 
 - ![Block Diagram](img/block_diagram.png)
