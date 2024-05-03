@@ -16,3 +16,41 @@
 ## 3. Hardware & Software Requirements
 
 ## 4. Project Photos & Screenshots
+
+### Casework
+
+- ![Casework](img/casework2.jpg)
+- ![Casework](img/casework1.jpg)
+
+### a. The standalone PCBA, top
+
+- ![PCBA Top View](img/board_front.jpg)
+
+### b. The standalone PCBA, bottom
+
+- ![PCBA Top View](img/board_back.jpg)
+
+### c. Thermal camera images while the board is running under load 
+
+- ![Thermal Image](img/heatgun.jpg)
+
+### d. The Altium Board design in 2D view
+
+- ![Ground Plane View](img/ground.png)
+- ![Power Plane View](img/power.png)
+
+### e. The Altium Board design in 3D view
+
+- ![3D View](img/3dView.png)
+
+### f. Node-RED dashboard
+
+- ![Node-Red Dashboard](img/node_red_UI.png)
+
+### g. Node-RED backend
+
+- ![Node-Red Backend](img/node_red_backEnd.png)
+
+### h. Block diagram of your system
+
+- ![Block Diagram](img/block_diagram.png)
