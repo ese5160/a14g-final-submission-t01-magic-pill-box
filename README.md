@@ -25,8 +25,9 @@
 
 - The Magic Pill Box is made with a few interesting functions. First of all, the safe lock function which is integrated with 3 electric magnets and a buzzer. When the buzzer is beeping, it reminds the user to take the pill and based on the number on the OLED screen, the user will need to take the pills from the corresponding compartment. Before taking the pills, the user needs to press the switch to open the compartment by unlocking the electric magnets. Once the user eats the pills and closes the lid, the lid will then press the button sticked inside the compartment and shut off the buzzer. 
 
-- The Magic Pill Box is also equipped with the SHTC3 temperature and humidity sensor, and the purpose is to monitor the storage condition. If there's an anonymous reading, the buzzer will start beeping and send the user a notification that the storage condition is dangerous to the medicine. 
-The user can use the node-red system to set up the alarm schedule and change the storage condition threshold.
+- The Magic Pill Box is also equipped with the SHTC3 temperature and humidity sensor, and the purpose is to monitor the storage condition. If there's an anonymous reading, the buzzer will start beeping and send the user a notification that the storage condition is dangerous to the medicine.
+
+- The user can use the node-red system to set up the alarm schedule and change the storage condition threshold.
 
 ### Challenges
 
