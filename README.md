@@ -53,4 +53,5 @@
 
 ### h. Block diagram
 
+- ![Block Diagram](img/system_diagram.png)
 - ![Block Diagram](img/block_diagram.png)
