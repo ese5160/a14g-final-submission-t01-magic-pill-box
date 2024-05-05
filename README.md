@@ -47,10 +47,14 @@
 - It is a class that really helped me getting more into the embedded system and IOT device. I really enjoyed the circuit board development process.
 
 - [Node-Red UI Link](http://52.186.82.19:1880/ui/)
-- [A12G Code Link](https://github.com/ese5160/a12g-firmware-drivers-t01-magic-pill-box)
+
 - [Altium Project Link](https://upenn-eselabs.365.altium.com/designs/2E1710E5-2220-46EC-B8F9-26C9D24CF3C1)
 
 ## 3. Hardware & Software Requirements
+
+- For the I2C part, we hope to have 3 i2c devices at first. The temperature and humidity sensor (SHTC3) to measure the environment, the OLED screen to show information,and a weight sensor that detects whether the user have take or put something from the pill box. At last, we only finish up setting the SHTC3 and the OLED screen.
+
+- At first, we hope to use the MCU to control the magnet. However, we mess up with the mosfet circuit that use to be act as a switch. At last, we come up with a solution by using an actual switch to control the magnet and a button embeded in the small pill box to detect the open and close case of the box.
 
 ## 4. Project Photos & Screenshots
 
