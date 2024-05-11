@@ -3,6 +3,7 @@
 # Magic Pill Box --- You don't want to miss out!!
 - Author:  Yu-Pin Yi, Haowei Chen
 - GitHub Repository URL: [Link](https://github.com/ese5160/a14g-final-submission-t01-magic-pill-box)
+- Public Website Page URL: [Link](https://ese5160.github.io/a14g-final-submission-t01-magic-pill-box/)
 
 ## 1. Video Presentation
 
